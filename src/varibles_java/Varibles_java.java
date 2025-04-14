@@ -19,6 +19,8 @@ public class Varibles_java {
         int numero = 1; // las variables de tipo int son numeros enteros y no llevan comillas
         Double precio = 1.50;//las variables de tipo Double son decimales
         Boolean stop = true;//variables boolean verdadero o falso
+        // lo que esta en la derecha se guarda en la izquierda despues de asignar // signo de asignar (= )y dos iguales (==)comparar/
+        
         
     }
     
